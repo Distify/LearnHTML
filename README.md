@@ -3,7 +3,7 @@
 Learn HTML is an all-new website built with GitHub Pages, and our aim is to provide you, the reader, with the knowledge and know-how of HTML Coding.
 
 
-###HTML
+<h2>HTML</h2>
 
 HTML is a coding language, and stands for Hypertext Markup Language. It is a fairly basic coding language, and can be learnt quickly. I managed to learn some of the following code within an hour of starting to learn HTML
 
@@ -154,6 +154,6 @@ Defines strikethrough text
 
 Source - [w3schools](w3schools.com)
 
-### Advantages of HTML
+<h2>Advantages of HTML</h2>
 
 Although HTML is a watered down, old-fashioned computer language, it is easy to use and can still be pulled off today, as long as you know how to. That’s the aim of our guide, to teach you how to code in HTML. Hypertext Markup Language can be used for websites, as it is widely supported by GitHub Pages and other free website hosting companies.
