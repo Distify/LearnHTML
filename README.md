@@ -152,7 +152,7 @@ Defines strikethrough text
 <!--...-->	Defines a comment
 ```
 
-Source - [w3schools](w3schools.com)
+Source - [w3schools](https://www.w3schools.com)
 
 <h2>Advantages of HTML</h2>
 
